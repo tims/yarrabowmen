@@ -18,28 +18,20 @@ params:
 menus:
   main:
     - name: "Home"
-      url: /"
+      pageRef: "/"
       weight: 1
     - name: "Membership"
-      url: /membership/"
+      pageRef: /membership
       weight: 2
     - name: "Visitors"
-      url: /visitors/"
+      pageRef: /visitors
       weight: 3
     - name: "Lessons"
-      url: /lessons/"
+      pageRef: /lessons
       weight: 4
     - name: "Scoring"
-      url: /score/"
+      pageRef: /score
       weight: 5
     - name: "Find Us"
-      url: /findus/"
+      pageRef: /findus
       weight: 6
-  footer:
-    - name: Score now
-      url: https://yarra.bhca.net.au/Live/
-      weight: 1
-    - name: Past scores
-      url: https://yarra.bhca.net.au/
-      weight: 2
-    
