@@ -1,4 +1,4 @@
-baseURL: https://tims.github.io/yarrabowmen/
+baseURL: https://yarrabowmen.github.io/
 languageCode: en-us
 title: Yarra Bowmen
 copyright: © 2025 Copyright Yarra Bowmen
@@ -8,7 +8,7 @@ module:
 params:
   logo: "images/yarra_bowmen_logo.png"
   hideRSSLink: true
-  author: 
+  author:
     address:
       - Yarra Bowmen Inc
       - PO BOX 71
